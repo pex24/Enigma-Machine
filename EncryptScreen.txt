@@ -1,0 +1,11 @@
+Engima Machine                                            Author: Peter Kimball
+Encrypter Screen                                           Date: Oct 24, 2020
+
+
+
+
+
+                        This screen encrpyts your message
+					   
+					   
+                           Please Enter Your Message:

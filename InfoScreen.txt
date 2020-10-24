@@ -1,0 +1,23 @@
+Engima Machine                                            Author: Peter Kimball
+Information Screen                                        Date: Oct 24, 2020
+
+
+
+
+      This project is based on the Engima Machine used by the Germans in WW2
+	            An Engima Machine contains a few basic parts:
+	                A Plug Board, 3 Rotors and a Reflector
+	  
+	  
+	  
+	  The message would be typed into the machine and pass first through
+	  the plug board and through each of the 3 rotors and then through the 
+	  reflector. The message then passes back through the machine in the  
+	  opposite order. This added more layers of complexity to the Engima Code
+	               making it almost impossible to crack.
+
+
+
+
+
+                        Press any key to continue	

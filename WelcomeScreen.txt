@@ -1,0 +1,23 @@
+Engima Machine                                            Author: Peter Kimball
+Welcome Screen                                             Date: Oct 24, 2020
+
+
+
+
+
+                      Welcome To Peter's Engima Machine:
+                    This program will take any string message 
+                       and encrypt or decyrpt the message 
+
+                  
+
+
+
+
+
+
+
+
+
+
+                            Press any key to continue

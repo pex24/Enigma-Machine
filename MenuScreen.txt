@@ -1,0 +1,23 @@
+Engima Machine                                            Author: Peter Kimball
+Main Menu                                                  Date: Oct 24, 2020
+
+
+
+
+                                File Contents:
+
+                                Welcome Screen
+
+                                Infomation Screen
+
+                                Encrypter Screen
+
+                                Decrypter Screen
+
+                                Output Screen
+
+                                Exit Screen
+
+
+
+                          Press any key to continue 
