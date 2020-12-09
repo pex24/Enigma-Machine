@@ -40,7 +40,7 @@ class Rotor:
 
     def show_position(self):
         """Show the rotors current position"""
-        print(self.rotor_alphabet)
+        return self.alphabet[0]
 
     def rotate(self):
         """Take the letter at the beginning of the alphabet
@@ -53,6 +53,11 @@ class Rotor:
     def set_position(self, position):
         self.rotor_alphabet = list_maker(self.rotor_wiring)
         for letter in range(0, position):
+            self.rotate()
+
+    def reset_position(self):
+        self.rotor_alphabet = list_maker(self.rotor_wiring)
+        for letter in range(0):
             self.rotate()
 
     def encrypt(self, text_input):
